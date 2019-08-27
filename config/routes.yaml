@@ -1,0 +1,6 @@
+# config/routes.yaml
+
+home_front:
+    path : /
+    controller : src/Controller/views/home/index.php
+    file : src/View/home/index.php
