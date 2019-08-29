@@ -1,0 +1,20 @@
+{
+    "use_generic_meta": true,
+
+    "libs": [
+        "jquery",
+        "fontawesome",
+        "feather-icons",
+        "popper",
+        "aos"
+    ],
+
+    "css":[ 
+        "home.min.css"
+    ],
+
+    "online_css": [ 
+        "https://unpkg.com/aos@2.3.1/dist/aos.css"
+    ]
+
+}

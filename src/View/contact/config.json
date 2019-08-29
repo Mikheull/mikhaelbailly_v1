@@ -1,0 +1,31 @@
+{
+    "use_generic_meta": false,
+
+    "libs": [
+        "jquery",
+        "fontawesome",
+        "feather-icons",
+        "popper"
+    ],
+    
+    "meta": [ 
+        "<title>Mikhaël Bailly - Contact</title>",
+        "<meta name=\"description\" content=\"Vous souhaitez me contacter, c'est sur cette page que ça se passe !.\"/>",
+        "<meta property=\"og:title\" content=\"Mikhaël Bailly - Contact\"/>",
+        "<meta property=\"og:description\" content=\"Vous souhaitez me contacter, c'est sur cette page que ça se passe !.\"/>",
+        "<meta property=\"og:image\" content=\"https://www.mikhaelbailly.fr/public/images/og_bg.png\"/>",
+        "<meta property=\"og:image:width\" content=\"128\"/>",
+        "<meta property=\"og:image:height\" content=\"128\"/>",
+
+        "<meta property=\"twitter:card\" content=\"summary_large_image\"/>",
+        "<meta property=\"twitter:title\" content=\"Mikhaël Bailly - Contact\"/>",
+        "<meta property=\"twitter:description\" content=\"Vous souhaitez me contacter, c'est sur cette page que ça se passe !.\"/>",
+        "<meta property=\"twitter:image\" content=\"https://www.mikhaelbailly.fr/public/images/og_bg.png\"/>"
+
+    ],
+
+    "css":[ 
+        "contact.min.css"
+    ]
+
+}

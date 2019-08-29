@@ -28,3 +28,6 @@ try {
 } catch (Exception $e) {
     throw new Exception('La base de donnée n\'a pas pu être connectée !');
 }
+
+
+$config = new config($db);
