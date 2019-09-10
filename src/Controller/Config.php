@@ -31,3 +31,5 @@ try {
 
 
 $config = new config($db);
+
+require ('src/Controller/Project.php');

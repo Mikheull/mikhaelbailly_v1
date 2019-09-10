@@ -5,27 +5,36 @@
         "jquery",
         "fontawesome",
         "feather-icons",
-        "popper"
+        "popper",
+        "aos"
     ],
     
     "meta": [ 
-        "<title>Mikhaël Bailly - Contact</title>",
-        "<meta name=\"description\" content=\"Vous souhaitez me contacter, c'est sur cette page que ça se passe !.\"/>",
-        "<meta property=\"og:title\" content=\"Mikhaël Bailly - Contact\"/>",
-        "<meta property=\"og:description\" content=\"Vous souhaitez me contacter, c'est sur cette page que ça se passe !.\"/>",
-        "<meta property=\"og:image\" content=\"https://www.mikhaelbailly.fr/public/images/og_bg.png\"/>",
+        "<title>Mikhaël Bailly - Mes projets</title>",
+        "<meta name=\"description\" content=\"Découvrez les nombreux projets que j'ai pu réalisés.\"/>",
+        "<meta property=\"og:title\" content=\"Mikhaël Bailly - Mes projets\"/>",
+        "<meta property=\"og:description\" content=\"Découvrez les nombreux projets que j'ai pu réalisés.\"/>",
+        "<meta property=\"og:image\" content=\"https://www.improove.tk/dist/images/og_bg.png\"/>",
         "<meta property=\"og:image:width\" content=\"128\"/>",
         "<meta property=\"og:image:height\" content=\"128\"/>",
 
         "<meta property=\"twitter:card\" content=\"summary_large_image\"/>",
-        "<meta property=\"twitter:title\" content=\"Mikhaël Bailly - Contact\"/>",
-        "<meta property=\"twitter:description\" content=\"Vous souhaitez me contacter, c'est sur cette page que ça se passe !.\"/>",
-        "<meta property=\"twitter:image\" content=\"https://www.mikhaelbailly.fr/public/images/og_bg.png\"/>"
+        "<meta property=\"twitter:title\" content=\"Mikhaël Bailly - Mes projets\"/>",
+        "<meta property=\"twitter:description\" content=\"Découvrez les nombreux projets que j'ai pu réalisés.\"/>",
+        "<meta property=\"twitter:image\" content=\"https://www.improove.tk/dist/images/og_bg.png\"/>"
 
     ],
 
     "css":[ 
-        "contact.min.css"
+        "project.min.css"
+    ],
+
+    "js":[ 
+        "project.min.js"
+    ],
+
+    "online_css": [ 
+        "https://unpkg.com/aos@2.3.1/dist/aos.css"
     ]
 
 }

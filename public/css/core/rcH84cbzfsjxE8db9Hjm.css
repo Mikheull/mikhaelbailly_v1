@@ -113,12 +113,12 @@ h1, h2, h3, h4, h5, h6 {font-family: 'Poppins', sans-serif}
 .icon-round {border-radius: 50%;width: 32px;height: 32px;text-align: center;line-height: 32px;}
 
 /* SpaceBar */
-.spacebar {height: 1px;background: #e2e2e2}
-.spacebar.spacebar-xl {width: 100%;margin: 0 auto}
-.spacebar.spacebar-lg {width: 75%;margin: 0 auto}
-.spacebar.spacebar-md {width: 50%;margin: 0 auto}
-.spacebar.spacebar-sm {width: 33%;margin: 0 auto}
-.spacebar.spacebar-xs {width: 25%;margin: 0 auto}
+.spacebar {background: #E6ECF1;height: 1.5px}
+.spacebar.spacebar-xl {width: 100%;}
+.spacebar.spacebar-lg {width: 75%;}
+.spacebar.spacebar-md {width: 50%;}
+.spacebar.spacebar-sm {width: 33%;}
+.spacebar.spacebar-xs {width: 25%;}
 
 /* Ombres */
 .title-lg-shadow {text-shadow: 43px -25px 0px rgba(7, 24, 40, 0.03);}

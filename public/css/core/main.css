@@ -3,14 +3,12 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .header .navigation li {display: inline-block}
-#head-container {position: relative;}
 
 /* Media Queries Mobile */
 @media (max-width: 568px) {
     .header {height: 80vh;}
     .header .branding {text-align: center}
     .header .navigation {text-align: center;margin-bottom: 10vh}
-    #head-container #head-illustration {position: absolute;bottom: 0}
 }
 
 

@@ -26,6 +26,39 @@ if($ServerHost == 'localhost' ){
     }
 }
 
+foreach($project -> getProjects() as $project){
+    $router -> addRoute( 
+        [ 
+            'route' => $project['uri'], 
+            'dir_path' => 'src/View/projects/article/'
+        ]
+    );
+
+    if($project['alias']){
+        if(strpos($project['alias'], ',') !== false) {
+            $alias = explode(',', $project['alias']);
+            foreach($alias as $al){
+                $router -> addRoute( 
+                    [ 
+                        'route' => $project['uri'],
+                        'alias' => $al,
+                        'dir_path' => 'src/View/projects/article/'
+                    ]
+                );
+            }
+        }else {
+            $router -> addRoute( 
+                [ 
+                    'route' => $project['uri'],
+                    'alias' => $project['alias'],
+                    'dir_path' => 'src/View/projects/article/'
+                ]
+            );
+        }
+    }
+}
+
+
 
 
 

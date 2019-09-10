@@ -1,0 +1,129 @@
+{
+    "components":
+        [
+            "informations",
+            "missions",
+            "gallery",
+            "prototypes",
+            "languages"
+        ],
+
+    "identity":
+        [
+            {
+                "logo":
+                    [
+                        {
+                            "enable": true,
+                            "path": "public/images/projets/R5H37x/logo.svg"
+                        }
+                    ],
+                "shortname": "Improove",
+                "fullname": "Improove - Gestion de projet"
+            }
+        ],
+
+    "informations":
+        [
+            {
+               "release_date": "10/09/2019", 
+               "last_edit_date": "10/09/2019",
+               "shared_url": "https://mikhaelbailly.fr/Improove-gestion-de-projet",
+               "navbar": 
+                    [
+                        {
+                            "external_url": true,
+                            "external_url_path": "https://improove.tk",
+                            "description": "Plateforme de gestion de projet - 2019"
+                        }
+                    ],
+                "description":
+                    [
+                        {
+                            "enable": true,
+                            "text": "Improove est une plateforme complète dédié a la gestion de projet. L'utilisateur peut créer son projet et y inviter des membres en les répartissant par la suite en équipe. Improove dispose de différents outils. Comme la gestion de tâches en définissant des deadline, en assignant des membres, ou en chronométrant le temps de travail. Mais aussi des tchats pour communiquer, un endroit pour stocker et partager les documents ou bien le bug-tracker. D'autres outils sont disponibles, à vous de les découvrir !"
+                        }
+                    ],
+                "card":
+                    [
+                        {
+                            "title": "Nom",
+                            "data": "Improove"
+                        },
+                        {
+                            "title": "Type",
+                            "data": "Plateforme Web"
+                        },
+                        {
+                            "title": "Projet",
+                            "data": "Scolaire (3ème année, fin d'étude)"
+                        },
+                        {
+                            "title": "Durée",
+                            "data": "4 mois"
+                        }
+                    ]
+            }
+        ],
+
+    "missions":
+        [
+            {
+                "title": "Scolaire",
+                "data": "Développer un gros projet pour la fin d'étude"
+            },
+            {
+                "title": "Scolaire",
+                "data": "Approfondir les langages appris"
+            },
+            {
+                "title": "Scolaire",
+                "data": "Utiliser des nouveaux langages pour optimiser"
+            },
+            {
+                "title": "Gestion",
+                "data": "Préparer le projet en amont et prévoir le durées de chaque tâches"
+            },
+            {
+                "title": "Contenu",
+                "data": "Proposer le plus de fonctionnalités"
+            },
+            {
+                "title": "Ergonomie",
+                "data": "Faire un design simple pour guider l'utilisateur"
+            },
+            {
+                "title": "Optimisation",
+                "data": "Optimiser le développement du site"
+            },
+            {
+                "title": "SEO",
+                "data": "Optimiser le référencement"
+            }
+        ],
+
+    "prototypes":
+        [
+
+        ],
+
+    "languages":
+        [
+            "HTML",
+            "Javascript",
+            "PHP",
+            "MySQL",
+            "CSS",
+            "Json",
+            "Ajax",
+            "UML",
+            "Markdown"
+        ],
+
+    "gallery":
+        [
+            {
+                "path": "public/images/projets/R5H37x/gallery/og_bg.jpg"
+            }
+        ]
+}
