@@ -31,7 +31,7 @@
                 if(in_array('gallery', $obj['components'])){ require_once ('src/View/projects/article/components/gallery.php') ; }
             ?>
 
-            <div class="spacebar spacebar-lg"></div>
+            <div class="spacebar spacebar-lg center"></div>
             <?php 
                 require_once ('src/View/projects/article/components/sharing.php');
                 require_once ('src/View/projects/article/components/paging.php');

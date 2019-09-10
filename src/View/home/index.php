@@ -73,7 +73,7 @@
     </div>
     <div class="container mt-5" id="new_project">
         <div class="row">
-            <div class="col-lg-6 offset-lg-0 col-10 offset-0 illustration text-align-right mb-lg-0 mb-3"> <img src="<?= $router -> rootUrl() ;?>public/images/projets/R5H37x/preview/banners/banner.png" alt="" width="80%"> </div>
+            <div class="col-lg-6 offset-lg-0 col-10 offset-0 illustration text-align-right mb-lg-0 mb-3"> <img src="<?= $router -> rootUrl() ;?>public/images/projets/R5H37x/banners/banner.jpg" alt="" width="80%"> </div>
             <div class="col-lg-6 offset-lg-0 col-10 offset-1">
                 <h3 class="title-md bold text-align-center color-dark">Improove - Gestion de projet</h3>
                 <p class="color-gray mt-3">Improove est une plateforme complète dédié a la gestion de projet. L'utilisateur peut créer son projet et y inviter des membres en les répartissant par la suite en équipe. Improove dispose de différents outils. Comme la gestion de tâches en définissant des deadline, en assignant des membres, ou en chronométrant le temps de travail. Mais aussi des tchats pour communiquer, un endroit pour stocker et partager les documents ou bien le bug-tracker. D'autres outils sont disponibles, à vous de les découvrir !</p>

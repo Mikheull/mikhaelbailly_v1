@@ -16,30 +16,6 @@ $( "#project_hub .navbar .fitler_buttons" ).click(function() {
 
 
 
-$( "#open-gallery" ).click(function() {
-    $( "#gallery_wrapper" ).toggleClass('hidden');
-});
-
-$(document).ready(function() {
-    $(document).on("click", "#close-gallery", function(e) {
-        $( '#gallery_wrapper' ).toggleClass( 'hidden' );
-    });
-});
-$(document).bind('keydown', function(e) {
-    if(e.which == 27) {
-        if ( $( '#gallery_wrapper' ).hasClass('hidden') ) {
-            return false;
-        }else{
-            e.preventDefault();
-            $( '#gallery_wrapper' ).toggleClass( 'hidden' );
-        }
-        return false;
-    }
-});
-
-
-
-
 
 
 

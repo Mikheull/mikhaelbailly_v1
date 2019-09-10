@@ -4,19 +4,25 @@
         <div class="col-12"> <h2 class="title-lg bold color-dark title-lg-shadow">Gallerie</h2> </div>
         
         <div class="col-12 margin-top margin-bot">
-            <div class="container margin-top">
-                <?php
-                    $banner_gallery = $obj['gallery'][0]['path'];
-                ?>
-                <a class="link" id="open-gallery"> <img src="<?= $banner_gallery ?>" alt="Image de bannière de la gallerie" height="500px"> </a>
+            <div class="container">
+                <div class="row">
+                    <?php
+                        $nb = 1;
+                        foreach($obj['gallery'] as $value) {
+                        ?> 
+                            <div class="col-10">
+                                <div class="margin-top-lg text-align-center">
+                                    <img src="<?= $value['path'] ?>" alt="<?= $value['alt'] ?>" width="100%">
+                                    <small class="color-gray text-xs"> <?= $value['alt'] ?> </small>
+                                </div>
+                            </div>
+                        <?php
+                        $nb ++;
+                        }
+                    ?>
+                </div>
             </div>
         </div>
 
     </div>
-</div>
-
-
-
-<div id="gallery_wrapper" class="hidden">
-    Gallery here
 </div>

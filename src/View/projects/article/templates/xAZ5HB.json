@@ -4,7 +4,6 @@
             "informations",
             "missions",
             "gallery",
-            "prototypes",
             "languages"
         ],
 
@@ -113,7 +112,24 @@
     "gallery":
         [
             {
-                "path": "public/images/projets/xAZ5HB/gallery/ft-lg_category-list.png"
+                "path": "public/images/projets/xAZ5HB/gallery/categories.jpg",
+                "alt": "Catégories des articles"
+            },
+            {
+                "path": "public/images/projets/xAZ5HB/gallery/article.jpg",
+                "alt": "Page d'article"
+            },
+            {
+                "path": "public/images/projets/xAZ5HB/gallery/multi.jpg",
+                "alt": "Multi vues"
+            },
+            {
+                "path": "public/images/projets/xAZ5HB/gallery/options.jpg",
+                "alt": "Page d'options"
+            },
+            {
+                "path": "public/images/projets/xAZ5HB/gallery/product_list.jpg",
+                "alt": "Backoffice des produits"
             }
         ]
 }

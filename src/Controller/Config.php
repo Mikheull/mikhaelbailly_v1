@@ -30,6 +30,6 @@ try {
 }
 
 
-$config = new config($db);
+$config = new Config($db);
 
 require ('src/Controller/Project.php');

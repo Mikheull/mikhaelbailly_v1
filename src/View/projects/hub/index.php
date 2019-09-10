@@ -37,7 +37,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-3 col-12 banner">
-                                <img src="<?= $config -> rootUrl() .'public/images/projets/' . $project['reference'] ?>/preview/banners/presentation.png" alt="Bannière du projet <?= $project['project_name'] ;?>">
+                                <img src="<?= $config -> rootUrl() .'public/images/projets/' . $project['reference'] ?>/banners/banner.jpg" alt="Bannière du projet <?= $project['project_name'] ;?>">
                             </div>
                             <div class="col-md-8 col-12 align-self-center text">
                                 <h3 class="title-xs bold color-lg-dark"><?= $project['project_name'] ;?></h3>

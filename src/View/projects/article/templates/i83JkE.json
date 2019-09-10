@@ -3,7 +3,6 @@
         [
             "informations",
             "missions",
-            "gallery",
             "languages"
         ],
 
@@ -89,12 +88,5 @@
             "CSS",
             "Json",
             "Ajax"
-        ],
-
-    "gallery":
-        [
-            {
-                "path": "public/images/projets/i83JkE/gallery/dark_theme.png"
-            }
         ]
 }

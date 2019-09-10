@@ -10,7 +10,7 @@
 /******************************************************************************/
 
 
-$router = new router($db);
+$router = new Router($db);
 
 
 require_once ('config/routes.php');

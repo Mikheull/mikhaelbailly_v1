@@ -4,7 +4,6 @@
             "informations",
             "missions",
             "gallery",
-            "prototypes",
             "languages"
         ],
 
@@ -123,7 +122,28 @@
     "gallery":
         [
             {
-                "path": "public/images/projets/R5H37x/gallery/og_bg.jpg"
+                "path": "public/images/projets/R5H37x/gallery/iphone_home.jpg",
+                "alt": "Page d'accueil de la plateforme Improove sur téléphone"
+            },
+            {
+                "path": "public/images/projets/R5H37x/gallery/big_banner.jpg",
+                "alt": "Bannière Improove"
+            },
+            {
+                "path": "public/images/projets/R5H37x/gallery/tel_register.jpg",
+                "alt": "Page d'inscription"
+            },
+            {
+                "path": "public/images/projets/R5H37x/gallery/bug-tracker.jpg",
+                "alt": "Outil de gestion des bugs"
+            },
+            {
+                "path": "public/images/projets/R5H37x/gallery/Gestion_projet.jpg",
+                "alt": "Outil de gestion des tâches"
+            },
+            {
+                "path": "public/images/projets/R5H37x/gallery/multi.jpg",
+                "alt": "Différentes vues"
             }
         ]
 }
