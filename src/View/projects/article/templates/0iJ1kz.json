@@ -3,6 +3,7 @@
         [
             "informations",
             "missions",
+            "gallery",
             "languages"
         ],
 
@@ -101,5 +102,24 @@
             "CSS",
             "Json",
             "Ajax"
+        ],
+
+    "gallery":
+        [
+            {
+                "min_name": "home.min.jpg",
+                "original_name": "home.jpg",
+                "alt": "Page d'accueil du restaurant"
+            },
+            {
+                "min_name": "menu.min.jpg",
+                "original_name": "menu.jpg",
+                "alt": "Menu du restaurant"
+            },
+            {
+                "min_name": "backoffice-invoices.min.jpg",
+                "original_name": "backoffice-invoices.jpg",
+                "alt": "Outil de génération de factures"
+            }
         ]
 }

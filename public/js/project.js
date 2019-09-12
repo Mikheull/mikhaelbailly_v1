@@ -15,16 +15,9 @@ $( "#project_hub .navbar .fitler_buttons" ).click(function() {
 
 
 
-
-
-
-
 $( "#open-prototype" ).click(function() {
     $( "#prototype_wrapper" ).toggleClass('hidden');
 });
-
-
-
 $(document).ready(function() {
     $(document).on("click", "#close-prototype", function(e) {
         $( '#prototype_wrapper' ).toggleClass( 'hidden' );

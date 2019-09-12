@@ -46,10 +46,9 @@
 .wireframe_wrapper {overflow: hidden;}
 .wireframe_text {height: 300px;padding-top: 140px;}
 .img_deco_wireframe {height: 300px;position: absolute;left: 10%;transform: rotate(-25deg);opacity: 0.08;}
-#open-gallery img {box-shadow: 0px 0px 13px 3px rgba(0, 0, 0, 0.05)}
 
-#gallery_wrapper {background: rgba(255, 255, 255, 0.9);width: 100vw;height: 100vh;position: fixed;z-index: 9999999;top: 0;left: 0;}
-#prototype_wrapper {background: rgba(255, 255, 255, 0.9);width: 100vw;height: 100vh;position: fixed;z-index: 9999999;top: 0;left: 0;}
+#prototype_wrapper {background: rgba(0, 0, 0, 0.9);width: 100vw;height: 100vh;position: fixed;z-index: 9999999;top: 0;left: 0;}
+
 
 .btn-twitter, .btn-facebook, .btn-pinterest, .btn-mail, .btn-linkedin {color: var(--light-black-color)}
 .btn-linkedin {border: solid 1px #0077b5}
@@ -74,5 +73,3 @@
     .sub-bar {width: 95%;left: 2.5%}
 
 }
-
-

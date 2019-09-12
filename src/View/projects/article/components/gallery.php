@@ -12,7 +12,7 @@
                         ?> 
                             <div class="col-10">
                                 <div class="margin-top-lg text-align-center">
-                                    <img src="<?= $value['path'] ?>" alt="<?= $value['alt'] ?>" width="100%">
+                                    <img src="public/images/projets/<?= $ref ?>/gallery/<?= $value['min_name'] ?>" alt="<?= $value['alt'] ?>" width="100%" class="link">
                                     <small class="color-gray text-xs"> <?= $value['alt'] ?> </small>
                                 </div>
                             </div>

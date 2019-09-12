@@ -112,11 +112,13 @@
     "gallery":
         [
             {
-                "path": "public/images/projets/2jua0F/gallery/liste.jpg",
+                "min_name": "public/images/projets/2jua0F/gallery/liste.min.jpg",
+                "original_name": "public/images/projets/2jua0F/gallery/liste.jpg",
                 "alt": "Liste de matériels"
             },
             {
-                "path": "public/images/projets/2jua0F/gallery/multi.jpg",
+                "min_name": "public/images/projets/2jua0F/gallery/multi.min.jpg",
+                "original_name": "public/images/projets/2jua0F/gallery/multi.jpg",
                 "alt": "Mutli images"
             }
         ]

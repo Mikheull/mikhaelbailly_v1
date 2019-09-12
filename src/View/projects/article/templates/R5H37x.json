@@ -122,27 +122,33 @@
     "gallery":
         [
             {
-                "path": "public/images/projets/R5H37x/gallery/iphone_home.jpg",
+                "min_name": "iphone_home.min.jpg",
+                "original_name": "iphone_home.jpg",
                 "alt": "Page d'accueil de la plateforme Improove sur téléphone"
             },
             {
-                "path": "public/images/projets/R5H37x/gallery/big_banner.jpg",
+                "min_name": "big_banner.min.jpg",
+                "original_name": "big_banner.jpg",
                 "alt": "Bannière Improove"
             },
             {
-                "path": "public/images/projets/R5H37x/gallery/tel_register.jpg",
+                "min_name": "tel_register.min.jpg",
+                "original_name": "tel_register.jpg",
                 "alt": "Page d'inscription"
             },
             {
-                "path": "public/images/projets/R5H37x/gallery/bug-tracker.jpg",
+                "min_name": "bug-tracker.min.jpg",
+                "original_name": "bug-tracker.jpg",
                 "alt": "Outil de gestion des bugs"
             },
             {
-                "path": "public/images/projets/R5H37x/gallery/Gestion_projet.jpg",
+                "min_name": "Gestion_projet.min.jpg",
+                "original_name": "Gestion_projet.jpg",
                 "alt": "Outil de gestion des tâches"
             },
             {
-                "path": "public/images/projets/R5H37x/gallery/multi.jpg",
+                "min_name": "multi.min.jpg",
+                "original_name": "multi.jpg",
                 "alt": "Différentes vues"
             }
         ]
