@@ -15,7 +15,8 @@
     <meta name="author" content="Mikhaël Bailly"/>
     <meta name="category" content="website, portfolio"/>
     <meta name="theme-color" content="#1971c2"/>
-
+    <meta name="google-site-verification" content="Oheho3KHu68ezEkNqmK9clC-JJGnSyg5jWYgNzlGg20" />
+    
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="https://www.mikhaelbailly.fr/<?= $_GET['query'] ;?>"/>
     <meta property="twitter:url" content="https://www.mikhaelbailly.fr/<?= $_GET['query'] ;?>"/>

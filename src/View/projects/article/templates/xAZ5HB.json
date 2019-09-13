@@ -112,28 +112,28 @@
     "gallery":
         [
             {
-                "min_name": "public/images/projets/xAZ5HB/gallery/categories.min.jpg",
-                "original_name": "public/images/projets/xAZ5HB/gallery/categories.jpg",
+                "min_name": "categories.min.jpg",
+                "original_name": "categories.jpg",
                 "alt": "Catégories des articles"
             },
             {
-                "min_name": "public/images/projets/xAZ5HB/gallery/article.min.jpg",
-                "original_name": "public/images/projets/xAZ5HB/gallery/article.jpg",
+                "min_name": "article.min.jpg",
+                "original_name": "article.jpg",
                 "alt": "Page d'article"
             },
             {
-                "min_name": "public/images/projets/xAZ5HB/gallery/multi.min.jpg",
-                "original_name": "public/images/projets/xAZ5HB/gallery/multi.jpg",
+                "min_name": "multi.min.jpg",
+                "original_name": "multi.jpg",
                 "alt": "Multi vues"
             },
             {
-                "min_name": "public/images/projets/xAZ5HB/gallery/options.min.jpg",
-                "original_name": "public/images/projets/xAZ5HB/gallery/options.jpg",
+                "min_name": "options.min.jpg",
+                "original_name": "options.jpg",
                 "alt": "Page d'options"
             },
             {
-                "min_name": "public/images/projets/xAZ5HB/gallery/product_list.min.jpg",
-                "original_name": "public/images/projets/xAZ5HB/gallery/product_list.jpg",
+                "min_name": "product_list.min.jpg",
+                "original_name": "product_list.jpg",
                 "alt": "Backoffice des produits"
             }
         ]
