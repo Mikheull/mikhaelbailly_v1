@@ -59,7 +59,7 @@
     </div>
 </section>
 
-
+<div class="spacer-lg"></div>
 
 <section id="new_project_comp" class="mt-5 mb-5">
     <div class="container_fluid text-align-center bg-dark" id="new_project_title">
@@ -71,6 +71,9 @@
             </div>
         </div>
     </div>
+    
+    <div class="spacer-lg"></div>
+    
     <div class="container mt-5" id="new_project">
         <div class="row">
             <div class="col-lg-6 offset-lg-0 col-10 offset-0 illustration text-align-right mb-lg-0 mb-3"> <img src="<?= $router -> rootUrl() ;?>public/images/projets/R5H37x/banners/banner.jpg" alt="" width="80%"> </div>

@@ -12,7 +12,9 @@
                         ?> 
                             <div class="col-10">
                                 <div class="margin-top-lg text-align-center">
-                                    <img src="public/images/projets/<?= $ref ?>/gallery/<?= $value['min_name'] ?>" alt="<?= $value['alt'] ?>" width="100%" class="link">
+                                    <a class="image-link link" href="public/images/projets/<?= $ref ?>/gallery/<?= $value['original_name'] ?>" title="<?= $value['alt'] ?>"> 
+                                        <img src="public/images/projets/<?= $ref ?>/gallery/<?= $value['min_name'] ?>" alt="<?= $value['alt'] ?>" width="100%"> 
+                                    </a>
                                     <small class="color-gray text-xs"> <?= $value['alt'] ?> </small>
                                 </div>
                             </div>
@@ -26,3 +28,9 @@
 
     </div>
 </div>
+
+<script>
+$(document).ready(function() {
+  $('.image-link').magnificPopup({type:'image'});
+});
+</script>

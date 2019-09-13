@@ -40,6 +40,9 @@
     <?php if($config -> getConfigLib($exec_router['config_path'],'dragscroll') == true){?> <script src="https://cdn.jsdelivr.net/npm/dragscroll@0.0.8/dragscroll.min.js"></script> <?php } ;?>
     <?php if($config -> getConfigLib($exec_router['config_path'],'tippy') == true){?> <script src="https://unpkg.com/tippy.js@4"></script> <?php } ;?>
     <?php if($config -> getConfigLib($exec_router['config_path'],'recaptcha') == true){?> <script src="https://www.google.com/recaptcha/api.js" async defer></script> <?php } ;?>
+    <?php if($config -> getConfigLib($exec_router['config_path'],'magnific-popup') == true){?> <script src="https://cdn.jsdelivr.net/npm/magnific-popup@1.1.0/dist/jquery.magnific-popup.js"></script> <?php } ;?>
+
+    
 </head>
 
 <body>

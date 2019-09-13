@@ -7,7 +7,8 @@
         "feather-icons",
         "popper",
         "aos",
-        "dragscroll"
+        "dragscroll",
+        "magnific-popup"
     ],
     
     "meta": [ 
@@ -35,7 +36,8 @@
     ],
 
     "online_css": [ 
-        "https://unpkg.com/aos@2.3.1/dist/aos.css"
+        "https://unpkg.com/aos@2.3.1/dist/aos.css",
+        "https://cdn.jsdelivr.net/npm/magnific-popup@1.1.0/dist/magnific-popup.css"
     ]
 
 }
