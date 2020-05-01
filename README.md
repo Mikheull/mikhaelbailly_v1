@@ -1,4 +1,3 @@
-# Ancienne version du site MikhaelBailly.fr
-Site pro portfolio mikhaelBailly.fr V1 en PHP
+# Old version of the site Mikhaelbailly.fr
 
-Cette version n'est plus en ligne ! Voici la nouvelle [ici](https://github.com/Mikheull/MikhaelBailly)
+This version is no longer online! Here is the new [here](https://github.com/Mikheull/MikhaelBailly)
